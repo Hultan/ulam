@@ -10,6 +10,6 @@ An application that draws a prime number spiral, an Ulam spiral, in GTK and Go.
 
 ## SCREENSHOT
 
-![screenshot](assets/screenshot.png)
+![screenshot](assets/screenshot2.png)
 
 ## TODO
